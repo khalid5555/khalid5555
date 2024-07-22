@@ -18,7 +18,7 @@
 
 
 <p align="left"> <img src="https://iphtechnologies.org/assets/images/giff.gif" width="450" height="300" /> 
- <img src="https://github.com/khalid5555/assets/images/9f5eee3f-dc16-4d3f-9eb4-981f71f14e6c.png" width="450" height="300" /> </p>
+ <img src="https://github.com/khalid5555/assets/images/9f5eee3f-dc16-4d3f-9eb4-981f71f14e6c.PNG" width="450" height="300" /> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid5555&show_icons=true&locale=en&layout=compact" alt="khalid5555" /></p>
