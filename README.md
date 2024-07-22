@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Khalid Gamal  <img align="right"  src="https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28" width="250" height="250" /></h1>
+<h1 align="center">Hi there👋, I'm Khalid Gamal  <img align="right"  src="https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28" width="1050" height="250" /></h1>
 
 
  <h3 align="center">A passionate flutter developer from Egypt</h3>
