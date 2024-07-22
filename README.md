@@ -19,8 +19,7 @@
 
 <p> 
  <img src="https://iphtechnologies.org/assets/images/giff.gif" width="400" height="300" /> 
- <img src="https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28.png" width="400" height="300" />
- https://github.com/user-attachments/assets/2e94e69b-7913-4b21-8c03-9ee56d177f76
+ <img src="https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28" width="400" height="300" />
 </p>
  
 ![khalid_logo](https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28)
