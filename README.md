@@ -18,8 +18,8 @@
 
 68198261
 <p> <img src="https://iphtechnologies.org/assets/images/giff.gif" width="450" height="300" /> 
- <img src="https://private-user-images.githubusercontent.com/68198261/350917933-2e3ec766-ad7e-4115-b9d4-d5fe9c2712c5.png" width="450" height="300" /> </p>
-
+ <img src="https://github.com/user-attachments/assets/68198261/350917933-2e3ec766-ad7e-4115-b9d4-d5fe9c2712c5.png" width="450" height="300" /> </p>
+https://github.com/user-attachments/assets/2e3ec766-ad7e-4115-b9d4-d5fe9c2712c5
 ![khalid_logo](https://github.com/user-attachments/assets/2e3ec766-ad7e-4115-b9d4-d5fe9c2712c5)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid5555&show_icons=true&locale=en&layout=compact" alt="khalid5555" /></p>
