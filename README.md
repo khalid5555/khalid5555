@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Khalid Gamal</h1>
-<p align="left"></p> <h3 align="center">A passionate flutter developer from Egypt</h3>
+<p align="left"> <h3 align="center">A passionate flutter developer from Egypt</h3>
  <img src="https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28" width="150" height="80" /></p>
 <p align="right"> <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*vkfI4nFNheC5v0p7wzDtGg.gif" width="1050" height="200" /> </p>
 - 🔭 I’m currently working on **logeen Academy** company
