@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; ">
-  <h1 style="flex: 1; text-align: center;">Hi there👋, I'm Khalid Gamal</h1>
+  <h1 style="flex: 1;">Hi there👋, I'm Khalid Gamal</h1>
   <img src="https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28" width="400" height="250" />
 </div>
 
