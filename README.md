@@ -20,7 +20,7 @@
 
 
 <p> 
- <img src="https://iphtechnologies.org/assets/images/giff.gif" width="380" height="300" /> 
+ <img src="https://iphtechnologies.org/assets/images/giff.gif" width="350" height="300" /> 
  <img src="https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28" width="450" height="300" />
 </p>
  
