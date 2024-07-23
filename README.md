@@ -1,8 +1,8 @@
 <h1 align="center">
   Hi there👋, I'm Khalid Gamal 
-  <img align="right" src="https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28" width="300" height="250" />
+  <img align="right" src="https://github.com/user-attachments/assets/bafd307a-fa0d-4ce0-a2db-8dd7bb00d514" width="300" height="250" />
 </h1>
- <h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center">A passionate flutter developer from Egypt</h3>
 <p align="right"> <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*vkfI4nFNheC5v0p7wzDtGg.gif" width="1050" height="200" /> </p>
 - 🔭 I’m currently working on **logeen Academy** company
 
@@ -22,7 +22,7 @@
 
 <p> 
  <img src="https://iphtechnologies.org/assets/images/giff.gif" width="350" height="300" /> 
- <img src="https://github.com/user-attachments/assets/bbe7e571-c2aa-4b4c-bbda-32f710573f28" width="450" height="300" />
+ <img src="https://github.com/user-attachments/assets/bafd307a-fa0d-4ce0-a2db-8dd7bb00d514" width="450" height="300" />
 </p>
  
 
